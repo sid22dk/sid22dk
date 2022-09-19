@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sid22dk
+- 👋 Hi, I’m @SiddheshKuwlekar
 - 👀 I’m interested in fullsatck development
 - 🌱 I’m currently learning new tech
 - 💞️ I’m looking to collaborate on experiments
